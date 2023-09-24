@@ -1,8 +1,0 @@
-▓ https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect - Google Pagespeed
-▓ https://imagecompressor.com/ru/ - Сжатие изображений
-▓ https://tinypng.com - Еще один ресурс для сжатия изображений
-▓ https://www.npmjs.com/package/gulp-htmlmin - Gulp-htmlmin
-▓ https://www.npmjs.com/package/gulp-imagemin - Gulp-imgmin
-▓ https://github.com/andrewalexeich/gulp-scss-starter - Gulp-scss-starter для быстрого старта проектов
-▓ https://www.virtualbox.org - VirtualBox(Виртуальная машина для тестирования сайтов)
-▓ https://www.browserstack.com - Сайт для тестирования своих сайтов
